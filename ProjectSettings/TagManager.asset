@@ -53,5 +53,14 @@ TagManager:
   - name: fogata
     uniqueID: 671921767
     locked: 0
+  - name: Paredes
+    uniqueID: 1734467417
+    locked: 0
+  - name: Jugador
+    uniqueID: 442921383
+    locked: 0
+  - name: piso
+    uniqueID: 3976958205
+    locked: 0
   m_RenderingLayers:
   - Default

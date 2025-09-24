@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: a55f1826518b94bcc9d1bec30bab91ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1157375605990868733
+    second: Vladimir-animation-idle-Sheet_0
+  - first:
+      213: 7565932332098061740
+    second: Vladimir-animation-idle-Sheet_1
+  - first:
+      213: 6302529986055853621
+    second: Vladimir-animation-idle-Sheet_2
+  - first:
+      213: -3549515040733738619
+    second: Vladimir-animation-idle-Sheet_3
+  - first:
+      213: 5351362637878909381
+    second: Vladimir-animation-idle-Sheet_4
+  - first:
+      213: -256183467604060051
+    second: Vladimir-animation-idle-Sheet_5
+  - first:
+      213: -2762592012600186154
+    second: Vladimir-animation-idle-Sheet_6
+  - first:
+      213: 373443464218517725
+    second: Vladimir-animation-idle-Sheet_7
+  - first:
+      213: 2921962160357637436
+    second: Vladimir-animation-idle-Sheet_8
+  - first:
+      213: 8995923485470182055
+    second: Vladimir-animation-idle-Sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c9ca4bf2df0010800000000000000
+      internalID: 1157375605990868733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca50959be579ff860800000000000000
+      internalID: 7565932332098061740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5365b1d41a5177750800000000000000
+      internalID: 6302529986055853621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589c82860e69dbec0800000000000000
+      internalID: -3549515040733738619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9d11767fbd34a40800000000000000
+      internalID: 5351362637878909381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d1285e7ad17cf0800000000000000
+      internalID: -256183467604060051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da62ad833d49a9d0800000000000000
+      internalID: -2762592012600186154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0af642adcbe2500800000000000000
+      internalID: 373443464218517725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dff378a15ec8820800000000000000
+      internalID: 2921962160357637436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vladimir-animation-idle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 4
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa4b026fb0f7dc70800000000000000
+      internalID: 8995923485470182055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vladimir-animation-idle-Sheet_0: 1157375605990868733
+      Vladimir-animation-idle-Sheet_1: 7565932332098061740
+      Vladimir-animation-idle-Sheet_2: 6302529986055853621
+      Vladimir-animation-idle-Sheet_3: -3549515040733738619
+      Vladimir-animation-idle-Sheet_4: 5351362637878909381
+      Vladimir-animation-idle-Sheet_5: -256183467604060051
+      Vladimir-animation-idle-Sheet_6: -2762592012600186154
+      Vladimir-animation-idle-Sheet_7: 373443464218517725
+      Vladimir-animation-idle-Sheet_8: 2921962160357637436
+      Vladimir-animation-idle-Sheet_9: 8995923485470182055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
