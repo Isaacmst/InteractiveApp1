@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -61,6 +62,9 @@ TagManager:
     locked: 0
   - name: piso
     uniqueID: 3976958205
+    locked: 0
+  - name: Ground
+    uniqueID: 3795112517
     locked: 0
   m_RenderingLayers:
   - Default
